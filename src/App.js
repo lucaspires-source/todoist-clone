@@ -1,7 +1,6 @@
+import React from 'react';
 
-import './App.css';
-
-function App() {
+const  App = () => {
   return (
     <div className="App">
       O pai ta on
@@ -9,4 +8,4 @@ function App() {
   );
 }
 
-export default App;
+export default App
